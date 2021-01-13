@@ -1,4 +1,9 @@
 /* applies to anything of class "example-class-selector" */
+.project{
+    background-color: gray;
+    margin-left: 20px;
+}
+
 .example-class-selector {
 	margin-top: 2em;
 }
@@ -33,7 +38,3 @@ body {
      z-index: -1;
 }
 
-.project{
-    background-color: gray;
-    margin-left: 20px;
-}
